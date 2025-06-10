@@ -1,0 +1,122 @@
+[
+    {
+        "company_name": "Google",
+        "career_page_url": "https://www.google.com/about/careers/applications/jobs/results/?location=United%20States&target_level=ADVANCED&target_level=DIRECTOR_PLUS",
+        "status": "SUCCESS"
+    },
+    {
+        "company_name": "Adobe",
+        "career_page_url": "https://careers.adobe.com/us/en/c/design-jobs",
+        "status": "SUCCESS"
+    },
+    {
+        "company_name": "Apple",
+        "career_page_url": "https://jobs.apple.com/en-us/search?location=united-states-USA",
+        "status": "SUCCESS"
+    },
+    {
+        "company_name": "Microsoft",
+        "career_page_url": "https://jobs.careers.microsoft.com/global/en/search?lc=United%20States&lc=United%20Kingdom&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true",
+        "status": "SUCCESS"
+    },
+    {
+        "company_name": "Amazon",
+        "career_page_url": "https://www.amazon.jobs/en/search?base_query=&loc_query=United+States&type=area&longitude=-77.03196&latitude=38.89036&country=USA",
+        "status": "SUCCESS"
+    },
+    {
+        "company_name": "Figma",
+        "career_page_url": "https://www.figma.com/careers/#job-openings",
+        "status": "SUCCESS"
+    },
+    {
+        "company_name": "Shopify",
+        "career_page_url": "https://www.shopify.com/careers#WhatWeDo",
+        "status": "SUCCESS"
+    },
+    {
+        "company_name": "Netflix",
+        "career_page_url": "https://explore.jobs.netflix.net/careers",
+        "status": "SUCCESS"
+    },
+    {
+        "company_name": "Airbnb",
+        "career_page_url": "https://careers.airbnb.com/positions/?_offices=united-states%2Ccanada%2Clondon-united-kingdom",
+        "status": "SUCCESS"
+    },
+    {
+        "company_name": "IBM",
+        "career_page_url": "https://www.ibm.com/careers/search?field_keyword_08%5B0%5D=Design%20%26%20UX&source=WEB_Leadrouting",
+        "status": "SUCCESS"
+    },
+    {
+        "company_name": "GoodRx",
+        "career_page_url": "https://goodrx.wd1.myworkdayjobs.com/careers",
+        "status": "SUCCESS"
+    },
+    {
+        "company_name": "Walmart",
+        "career_page_url": "https://careers.walmart.com/results?q=&page=1&sort=rank&jobCategory=00000161-8bda-d3dd-a1fd-bbda62130000&jobSubCategory=0000015a-a530-d06d-af5f-f5b37f790000,0000018b-4862-dd60-a3af-6dff47da0000,0000018b-491d-de4a-ad9f-59df9d780000&jobDepartmentCode=00000161-8bda-d3dd-a1fd-bbda62130000&jobEmploymentType=0000015a-721c-dcbc-afda-779e92ad0000,0000015a-721e-dcbc-afda-779e5a430000,0000015a-721d-de53-ab7e-767ff1d80000&expand=department,00000159-7574-d286-a3f9-7ff45f640000,00000159-7597-d2b4-abdd-f5b79c9d0000,00000159-75a1-d286-a3f9-7fa114fa0000,00000159-75a6-d2b4-abdd-f5a7fdd80000,0000015e-f1eb-d841-a15f-f7eb14100000,brand,type,rate&type=jobs",
+        "status": "SUCCESS"
+    },
+    {
+        "company_name": "Branch",
+        "career_page_url": "https://job-boards.greenhouse.io/branch",
+        "status": "SUCCESS"
+    },
+    {
+        "company_name": "Pendo",
+        "career_page_url": "https://job-boards.greenhouse.io/pendo",
+        "status": "SUCCESS"
+    },
+    {
+        "company_name": "Pinterest",
+        "career_page_url": "https://www.pinterestcareers.com/jobs/",
+        "status": "SUCCESS"
+    },
+    {
+        "company_name": "Audible",
+        "career_page_url": "https://www.audiblecareers.com/search-jobs",
+        "status": "SUCCESS"
+    },
+    {
+        "company_name": "Dropbox",
+        "career_page_url": "https://jobs.dropbox.com/all-jobs",
+        "status": "SUCCESS"
+    },
+    {
+        "company_name": "Webflow",
+        "career_page_url": "https://webflow.com/careers/roles",
+        "status": "SUCCESS"
+    },
+    {
+        "company_name": "Canva",
+        "career_page_url": "https://www.lifeatcanva.com/en/jobs/",
+        "status": "SUCCESS"
+    },
+    {
+        "company_name": "Notion",
+        "career_page_url": "https://www.notion.com/careers",
+        "status": "SUCCESS"
+    },
+    {
+        "company_name": "Hubspot",
+        "career_page_url": "https://www.hubspot.com/careers/jobs/all?page=1#language=english;",
+        "status": "SUCCESS"
+    },
+    {
+        "company_name": "ServiceNow",
+        "career_page_url": "https://careers.servicenow.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=User%20Experience&team=User%20Experience%20Design",
+        "status": "SUCCESS"
+    },
+    {
+        "company_name": "Amplitude",
+        "career_page_url": "https://job-boards.greenhouse.io/amplitude",
+        "status": "SUCCESS"
+    },
+    {
+        "company_name": "Marriott",
+        "career_page_url": "https://careers.marriott.com/career-journeys/corporate/jobs?filter%5Bcountry%5D%5B0%5D=Canada&filter%5Bcountry%5D%5B1%5D=United%20States&filter%5Bcountry%5D%5B2%5D=United%20Kingdom&filter%5Bemployment_type%5D%5B0%5D=Full%20Time&filter%5Bemployment_type%5D%5B1%5D=Part%20Time",
+        "status": "SUCCESS"
+    }
+]

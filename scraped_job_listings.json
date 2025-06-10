@@ -1,0 +1,1350 @@
+[
+    {
+        "company_name": "Google",
+        "career_page_url": "https://www.google.com/about/careers/applications/jobs/results/?location=United%20States&target_level=ADVANCED&target_level=DIRECTOR_PLUS",
+        "scraped_data": {
+            "url": "https://www.google.com/about/careers/applications/jobs/results/?location=United%20States&target_level=ADVANCED&target_level=DIRECTOR_PLUS",
+            "listings": []
+        }
+    },
+    {
+        "company_name": "Adobe",
+        "career_page_url": "https://careers.adobe.com/us/en/c/design-jobs",
+        "scraped_data": {
+            "url": "https://careers.adobe.com/us/en/c/design-jobs",
+            "listings": []
+        }
+    },
+    {
+        "company_name": "Apple",
+        "career_page_url": "https://jobs.apple.com/en-us/search?location=united-states-USA",
+        "scraped_data": {
+            "url": "https://jobs.apple.com/en-us/search?location=united-states-USA",
+            "listings": []
+        }
+    },
+    {
+        "company_name": "Microsoft",
+        "career_page_url": "https://jobs.careers.microsoft.com/global/en/search?lc=United%20States&lc=United%20Kingdom&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true",
+        "scraped_data": {
+            "url": "https://jobs.careers.microsoft.com/global/en/search?lc=United%20States&lc=United%20Kingdom&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true",
+            "listings": []
+        }
+    },
+    {
+        "company_name": "Amazon",
+        "career_page_url": "https://www.amazon.jobs/en/search?base_query=&loc_query=United+States&type=area&longitude=-77.03196&latitude=38.89036&country=USA",
+        "scraped_data": {
+            "url": "https://www.amazon.jobs/en/search?base_query=&loc_query=United+States&type=area&longitude=-77.03196&latitude=38.89036&country=USA",
+            "listings": []
+        }
+    },
+    {
+        "company_name": "Figma",
+        "career_page_url": "https://www.figma.com/careers/#job-openings",
+        "scraped_data": {
+            "url": "https://www.figma.com/careers/#job-openings",
+            "listings": [
+                {
+                    "title": "Director, Technical Program Management and Product Management",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5536769004?gh_jid=5536769004"
+                },
+                {
+                    "title": "Integration Engineering Lead",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5505406004?gh_jid=5505406004"
+                },
+                {
+                    "title": "Manager, GTM Finance",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5537975004?gh_jid=5537975004"
+                },
+                {
+                    "title": "Manager, IT Operations",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5504834004?gh_jid=5504834004"
+                },
+                {
+                    "title": "Senior Revenue Analyst",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5557823004?gh_jid=5557823004"
+                },
+                {
+                    "title": "Manager, Scaled Insights",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5479366004?gh_jid=5479366004"
+                },
+                {
+                    "title": "Data Scientist, Product (London, United Kingdom)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5545887004?gh_jid=5545887004"
+                },
+                {
+                    "title": "Manager, Data Science - Sales",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5382656004?gh_jid=5382656004"
+                },
+                {
+                    "title": "Manager, Software Engineering - AI Product",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5248996004?gh_jid=5248996004"
+                },
+                {
+                    "title": "Manager, Software Engineering - Interactive Foundations",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5502344004?gh_jid=5502344004"
+                },
+                {
+                    "title": "Software Engineer, AI Infrastructure",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5551669004?gh_jid=5551669004"
+                },
+                {
+                    "title": "Software Engineer, AI Product",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5551730004?gh_jid=5551730004"
+                },
+                {
+                    "title": "Software Engineer, C++",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5552530004?gh_jid=5552530004"
+                },
+                {
+                    "title": "Software Engineer, Data Infrastructure",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5551686004?gh_jid=5551686004"
+                },
+                {
+                    "title": "Software Engineer, Desktop",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5536280004?gh_jid=5536280004"
+                },
+                {
+                    "title": "Software Engineer, Infrastructure",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5552549004?gh_jid=5552549004"
+                },
+                {
+                    "title": "Software Engineer, Machine Learning",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5551532004?gh_jid=5551532004"
+                },
+                {
+                    "title": "Software Engineer, Mobile Platform",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5552512004?gh_jid=5552512004"
+                },
+                {
+                    "title": "Software Engineer, Platform Engineering",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5552560004?gh_jid=5552560004"
+                },
+                {
+                    "title": "Software Engineer, Product Engineering",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5552540004?gh_jid=5552540004"
+                },
+                {
+                    "title": "Software Engineer, Product Engineering (London, United Kingdom)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5551697004?gh_jid=5551697004"
+                },
+                {
+                    "title": "Software Engineer, Production Engineering",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5551649004?gh_jid=5551649004"
+                },
+                {
+                    "title": "Software Engineer, Rendering & Animation",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5552522004?gh_jid=5552522004"
+                },
+                {
+                    "title": "Content Strategist, Product",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5546257004?gh_jid=5546257004"
+                },
+                {
+                    "title": "Email Marketing Manager",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5553315004?gh_jid=5553315004"
+                },
+                {
+                    "title": "Growth Marketing Manager, Campaigns",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5491340004?gh_jid=5491340004"
+                },
+                {
+                    "title": "Growth Marketing Manager, Lifecycle",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5491330004?gh_jid=5491330004"
+                },
+                {
+                    "title": "Higher Education Marketing Manager",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5558229004?gh_jid=5558229004"
+                },
+                {
+                    "title": "Product Marketing Manager",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5534842004?gh_jid=5534842004"
+                },
+                {
+                    "title": "Regional Marketing Manager (London, United Kingdom)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5486827004?gh_jid=5486827004"
+                },
+                {
+                    "title": "Regional Marketing Manager (Sydney, Australia)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5529922004?gh_jid=5529922004"
+                },
+                {
+                    "title": "Director, People Analytics",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5332917004?gh_jid=5332917004"
+                },
+                {
+                    "title": "Learning and Development Manager",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5507082004?gh_jid=5507082004"
+                },
+                {
+                    "title": "Manager, People Operations",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5502308004?gh_jid=5502308004"
+                },
+                {
+                    "title": "Manager, Product Management - Product Foundations",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5497877004?gh_jid=5497877004"
+                },
+                {
+                    "title": "Product Manager, FigJam",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5424863004?gh_jid=5424863004"
+                },
+                {
+                    "title": "Director, Direct Support (London, United Kingdom)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5363825004?gh_jid=5363825004"
+                },
+                {
+                    "title": "Manager, AI, Infrastructure, & Tooling",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5525216004?gh_jid=5525216004"
+                },
+                {
+                    "title": "Manager, Product Support Programs",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5549175004?gh_jid=5549175004"
+                },
+                {
+                    "title": "Manager, Technical Quality (London, United Kingdom)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5523503004?gh_jid=5523503004"
+                },
+                {
+                    "title": "Resolutions Specialist, Product Support (London, United Kingdom)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5553634004?gh_jid=5553634004"
+                },
+                {
+                    "title": "Workforce & Vendor Manager, Product Support",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5478269004?gh_jid=5478269004"
+                },
+                {
+                    "title": "Account Executive, Enterprise",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5426468004?gh_jid=5426468004"
+                },
+                {
+                    "title": "Account Executive, Enterprise (Berlin, Germany)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5494544004?gh_jid=5494544004"
+                },
+                {
+                    "title": "Account Executive, Enterprise (London, United Kingdom)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5458801004?gh_jid=5458801004"
+                },
+                {
+                    "title": "Account Executive, Enterprise (Paris, France)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5428656004?gh_jid=5428656004"
+                },
+                {
+                    "title": "Account Executive, Enterprise, Portuguese Speaking (São Paulo, Brazil)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5415648004?gh_jid=5415648004"
+                },
+                {
+                    "title": "Account Executive, Federal",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5425993004?gh_jid=5425993004"
+                },
+                {
+                    "title": "Account Executive, Mid-Market",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5422236004?gh_jid=5422236004"
+                },
+                {
+                    "title": "Account Executive, Mid-Market (Berlin, Germany)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5364702004?gh_jid=5364702004"
+                },
+                {
+                    "title": "Account Executive, Mid-Market (London, United Kingdom)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5415515004?gh_jid=5415515004"
+                },
+                {
+                    "title": "Account Executive, Mid-Market, Portuguese Speaking (São Paulo, Brazil)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5428919004?gh_jid=5428919004"
+                },
+                {
+                    "title": "Account Executive, SMB",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5422269004?gh_jid=5422269004"
+                },
+                {
+                    "title": "Account Executive, SMB (Berlin, Germany)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5077339004?gh_jid=5077339004"
+                },
+                {
+                    "title": "Account Executive, SMB (London, United Kingdom)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5415419004?gh_jid=5415419004"
+                },
+                {
+                    "title": "Commercial Solutions Consultant (Singapore)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5551074004?gh_jid=5551074004"
+                },
+                {
+                    "title": "Customer Enablement Manager",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5541243004?gh_jid=5541243004"
+                },
+                {
+                    "title": "Customer Enablement Manager (London, United Kingdom or Berlin, Germany)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5534983004?gh_jid=5534983004"
+                },
+                {
+                    "title": "Customer Enablement Manager (Singapore)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5548513004?gh_jid=5548513004"
+                },
+                {
+                    "title": "Customer Enablement Manager (Tokyo, Japan)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5552495004?gh_jid=5552495004"
+                },
+                {
+                    "title": "Director, Mid-Market Sales",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5545967004?gh_jid=5545967004"
+                },
+                {
+                    "title": "Director, Sales Development",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5414206004?gh_jid=5414206004"
+                },
+                {
+                    "title": "Director, Sales Operations (London, United Kingdom)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5555070004?gh_jid=5555070004"
+                },
+                {
+                    "title": "Enterprise Solutions Consultant",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5478247004?gh_jid=5478247004"
+                },
+                {
+                    "title": "Manager, Enterprise Sales",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5465794004?gh_jid=5465794004"
+                },
+                {
+                    "title": "Manager, Mid-Market Sales",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5252870004?gh_jid=5252870004"
+                },
+                {
+                    "title": "Manager, Mid-Market Sales (Berlin, Germany)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5412879004?gh_jid=5412879004"
+                },
+                {
+                    "title": "Manager, SMB Sales (Berlin, Germany)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5535968004?gh_jid=5535968004"
+                },
+                {
+                    "title": "Manager, SMB Sales (London, United Kingdom)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5415875004?gh_jid=5415875004"
+                },
+                {
+                    "title": "Manager, Strategic Sales (London, United Kingdom)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5497551004?gh_jid=5497551004"
+                },
+                {
+                    "title": "Onboarding Manager, Customer Experience (Berlin, Germany)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5494503004?gh_jid=5494503004"
+                },
+                {
+                    "title": "Sales Enablement Manager (Singapore)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5461805004?gh_jid=5461805004"
+                },
+                {
+                    "title": "Sales Enablement Manager (Tokyo, Japan)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5232364004?gh_jid=5232364004"
+                },
+                {
+                    "title": "Sales Operations Manager (London, United Kingdom)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5535329004?gh_jid=5535329004"
+                },
+                {
+                    "title": "Business Recruiter (Fixed Term)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5400697004?gh_jid=5400697004"
+                },
+                {
+                    "title": "Program Manager, Talent Enablement",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5548051004?gh_jid=5548051004"
+                },
+                {
+                    "title": "Recruiting Associate (London, United Kingdom)",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5534020004?gh_jid=5534020004"
+                },
+                {
+                    "title": "Sales Recruiter",
+                    "url": "https://boards.greenhouse.io/figma/jobs/5531944004?gh_jid=5531944004"
+                }
+            ]
+        }
+    },
+    {
+        "company_name": "Shopify",
+        "career_page_url": "https://www.shopify.com/careers#WhatWeDo",
+        "scraped_data": {
+            "url": "https://www.shopify.com/careers#WhatWeDo",
+            "listings": [
+                {
+                    "title": "Senior Lead, Cross-Border Product PartnershipsRemote - Americas",
+                    "url": "https://www.shopify.com/careers/senior-lead-cross-border-product-partnerships_ddfec567-37f3-4ff8-99fe-a9fc70b3cf02"
+                },
+                {
+                    "title": "Senior Lead, Product PartnershipsRemote - Americas",
+                    "url": "https://www.shopify.com/careers/senior-lead-product-partnerships_441bd1fb-8108-41e1-879a-731f7d8d553a"
+                },
+                {
+                    "title": "Finance Insights Lead - Corporate FP&ARemote - Americas",
+                    "url": "https://www.shopify.com/careers/finance-insights-lead-corporate-fp-a_2edb4575-d70d-4648-ac18-c72409642c37"
+                },
+                {
+                    "title": "Finance Lead, Platform InfrastructureRemote - Americas",
+                    "url": "https://www.shopify.com/careers/finance-lead-platform-infrastructure_750ec2ec-96a4-4486-a453-7e3fdead6ebc"
+                },
+                {
+                    "title": "Manager, Operational AuditRemote - Americas",
+                    "url": "https://www.shopify.com/careers/manager-operational-audit_f744eafb-ce26-4638-bac8-35f59c12a0f7"
+                },
+                {
+                    "title": "Portfolio Analyst, Merchant Lending CreditRemote - Americas",
+                    "url": "https://www.shopify.com/careers/portfolio-analyst-merchant-lending-credit_28054958-0f46-433f-89f7-1e2cae75f23a"
+                },
+                {
+                    "title": "Senior Financial AnalystRemote - Americas",
+                    "url": "https://www.shopify.com/careers/senior-financial-analyst_90f4e08f-dbf2-4777-8794-5569cd6c209a"
+                },
+                {
+                    "title": "Senior Lead, Shop Marketing & Creative OperationsRemote - Americas",
+                    "url": "https://www.shopify.com/careers/senior-lead-shop-marketing-creative-operations_d175c32c-f22f-47a0-b72f-a4e89f837e33"
+                },
+                {
+                    "title": "Field Launch Specialist, NYCNew York City",
+                    "url": "https://www.shopify.com/careers/field-launch-specialist-nyc_00c14b8b-700a-49f0-835d-fc6846582fcf"
+                },
+                {
+                    "title": "Merchant Support Advisor, CanadaRemote - Americas",
+                    "url": "https://www.shopify.com/careers/merchant-support-advisor-canada_eeaebedd-831b-4dbc-bf50-656530fa4949"
+                },
+                {
+                    "title": "Security Incident Response, Senior AnalystRemote - Americas",
+                    "url": "https://www.shopify.com/careers/security-incident-response-senior-analyst_7e97f535-4942-4eac-9cd4-6eac6c52223b"
+                },
+                {
+                    "title": "Senior Technical Writer, Developer DocumentationRemote - Americas",
+                    "url": "https://www.shopify.com/careers/senior-technical-writer-developer-documentation_2cd0e593-5e08-42d1-857c-553d38dca2ab"
+                },
+                {
+                    "title": "Technical Account Manager, Enterprise EastRemote - Americas",
+                    "url": "https://www.shopify.com/careers/technical-account-manager-enterprise-east_f486d8aa-e55e-4a03-a092-1460dc9fdff2"
+                }
+            ]
+        }
+    },
+    {
+        "company_name": "Netflix",
+        "career_page_url": "https://explore.jobs.netflix.net/careers",
+        "scraped_data": {
+            "url": "https://explore.jobs.netflix.net/careers",
+            "listings": []
+        }
+    },
+    {
+        "company_name": "Airbnb",
+        "career_page_url": "https://careers.airbnb.com/positions/?_offices=united-states%2Ccanada%2Clondon-united-kingdom",
+        "scraped_data": {
+            "url": "https://careers.airbnb.com/positions/?_offices=united-states%2Ccanada%2Clondon-united-kingdom",
+            "listings": []
+        }
+    },
+    {
+        "company_name": "IBM",
+        "career_page_url": "https://www.ibm.com/careers/search?field_keyword_08%5B0%5D=Design%20%26%20UX&source=WEB_Leadrouting",
+        "scraped_data": {
+            "url": "https://www.ibm.com/careers/search?field_keyword_08%5B0%5D=Design%20%26%20UX&source=WEB_Leadrouting",
+            "listings": []
+        }
+    },
+    {
+        "company_name": "GoodRx",
+        "career_page_url": "https://goodrx.wd1.myworkdayjobs.com/careers",
+        "scraped_data": {
+            "url": "https://goodrx.wd1.myworkdayjobs.com/careers",
+            "listings": []
+        }
+    },
+    {
+        "company_name": "Walmart",
+        "career_page_url": "https://careers.walmart.com/results?q=&page=1&sort=rank&jobCategory=00000161-8bda-d3dd-a1fd-bbda62130000&jobSubCategory=0000015a-a530-d06d-af5f-f5b37f790000,0000018b-4862-dd60-a3af-6dff47da0000,0000018b-491d-de4a-ad9f-59df9d780000&jobDepartmentCode=00000161-8bda-d3dd-a1fd-bbda62130000&jobEmploymentType=0000015a-721c-dcbc-afda-779e92ad0000,0000015a-721e-dcbc-afda-779e5a430000,0000015a-721d-de53-ab7e-767ff1d80000&expand=department,00000159-7574-d286-a3f9-7ff45f640000,00000159-7597-d2b4-abdd-f5b79c9d0000,00000159-75a1-d286-a3f9-7fa114fa0000,00000159-75a6-d2b4-abdd-f5a7fdd80000,0000015e-f1eb-d841-a15f-f7eb14100000,brand,type,rate&type=jobs",
+        "scraped_data": {
+            "url": "https://careers.walmart.com/results?q=&page=1&sort=rank&jobCategory=00000161-8bda-d3dd-a1fd-bbda62130000&jobSubCategory=0000015a-a530-d06d-af5f-f5b37f790000,0000018b-4862-dd60-a3af-6dff47da0000,0000018b-491d-de4a-ad9f-59df9d780000&jobDepartmentCode=00000161-8bda-d3dd-a1fd-bbda62130000&jobEmploymentType=0000015a-721c-dcbc-afda-779e92ad0000,0000015a-721e-dcbc-afda-779e5a430000,0000015a-721d-de53-ab7e-767ff1d80000&expand=department,00000159-7574-d286-a3f9-7ff45f640000,00000159-7597-d2b4-abdd-f5b79c9d0000,00000159-75a1-d286-a3f9-7fa114fa0000,00000159-75a6-d2b4-abdd-f5a7fdd80000,0000015e-f1eb-d841-a15f-f7eb14100000,brand,type,rate&type=jobs",
+            "listings": []
+        }
+    },
+    {
+        "company_name": "Branch",
+        "career_page_url": "https://job-boards.greenhouse.io/branch",
+        "scraped_data": {
+            "url": "https://job-boards.greenhouse.io/branch",
+            "listings": [
+                {
+                    "title": "Senior Software Engineer, PlatformRemote",
+                    "url": "https://job-boards.greenhouse.io/branch/jobs/6561451003"
+                },
+                {
+                    "title": "Training and Documentation SpecialistRemote",
+                    "url": "https://job-boards.greenhouse.io/branch/jobs/6571595003"
+                }
+            ]
+        }
+    },
+    {
+        "company_name": "Pendo",
+        "career_page_url": "https://job-boards.greenhouse.io/pendo",
+        "scraped_data": {
+            "url": "https://job-boards.greenhouse.io/pendo",
+            "listings": [
+                {
+                    "title": "Associate General Counsel, CommercialRaleigh, NC / New York, NY / San Francisco, CA",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7960299002"
+                },
+                {
+                    "title": "Contracts & Legal Operations SpecialistRaleigh, NC",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7887741002"
+                },
+                {
+                    "title": "B2B Event Marketing Manager EMEALondon, UK",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7974695002"
+                },
+                {
+                    "title": "Field Marketing Manager - Event ProgramsLondon, UK",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7860854002"
+                },
+                {
+                    "title": "Sr. Product Marketing Manager, EnterpriseRaleigh, NC / New York, NY",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7948707002"
+                },
+                {
+                    "title": "Product ManagerSheffield, UK",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7941701002"
+                },
+                {
+                    "title": "Sr. Product ManagerHerzliya, Israel",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7962148002"
+                },
+                {
+                    "title": "R&D Program ManagerHerzliya, Israel",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7939919002"
+                },
+                {
+                    "title": "Sr. R&D Program ManagerRaleigh, NC",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7910522002"
+                },
+                {
+                    "title": "Account Executive Commercial SalesLondon, UK",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7952094002"
+                },
+                {
+                    "title": "Account Director Enterprise SalesMunich, Germany",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7870035002"
+                },
+                {
+                    "title": "Account Director Enterprise SalesNew York City, NY",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7906315002"
+                },
+                {
+                    "title": "Account Director Enterprise SalesPhiladelphia, PA",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7952198002"
+                },
+                {
+                    "title": "Account Director Enterprise SalesLondon, UK",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7941476002"
+                },
+                {
+                    "title": "Account Director Enterprise SalesUnited States",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7801474002"
+                },
+                {
+                    "title": "Account Director, Enterprise SalesSan Francisco, CA",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7966417002"
+                },
+                {
+                    "title": "Account Executive, Enterprise Sales - French SpeakingLondon, UK",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7885376002"
+                },
+                {
+                    "title": "Senior Enterprise Sales Manager - DACHMunich, Germany",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7974704002"
+                },
+                {
+                    "title": "Partner Development Manager, Solution PartnersRaleigh, NC / New York, NY / San Francisco, CA",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7896768002"
+                },
+                {
+                    "title": "Partner Development Manager, Solution Partners & AffiliatesRaleigh, NC / New York, NY / San Francisco, CA",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7896769002"
+                },
+                {
+                    "title": "Director, Professional Services, Americas - CommercialRaleigh, NC",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7888416002"
+                },
+                {
+                    "title": "Manager, Professional ServicesSan Francisco, CA",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7845372002"
+                },
+                {
+                    "title": "Professional Services Engagement ManagerLondon, UK",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7937583002"
+                },
+                {
+                    "title": "Sr. Professional Services Engagement ManagerRaleigh, NC / New York, NY",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/8005101002"
+                },
+                {
+                    "title": "PdM ConsultantTokyo, Japan",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7912742002"
+                },
+                {
+                    "title": "Manager, Business DevelopmentRaleigh, NC",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7973954002"
+                },
+                {
+                    "title": "Sr. Manager, Sales EngineeringSan Francisco, CA",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/8017955002"
+                },
+                {
+                    "title": "Sales Operations AnalystNew York, NY / San Francisco, CA / Raleigh, NC",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7960876002"
+                },
+                {
+                    "title": "Manager, Technical Account ServicesRaleigh, NC",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7982331002"
+                },
+                {
+                    "title": "Technical Account ManagerSan Francisco, CA",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7513988002"
+                },
+                {
+                    "title": "Technical Account ManagerRaleigh, NC / New York, NY",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7952098002"
+                },
+                {
+                    "title": "Technical Account ManagerLondon, UK",
+                    "url": "https://job-boards.greenhouse.io/pendo/jobs/7974937002"
+                }
+            ]
+        }
+    },
+    {
+        "company_name": "Pinterest",
+        "career_page_url": "https://www.pinterestcareers.com/jobs/",
+        "scraped_data": {
+            "url": "https://www.pinterestcareers.com/jobs/",
+            "listings": [
+                {
+                    "title": "Sr. Client Account Manager",
+                    "url": "https://www.pinterestcareers.com/jobs/6899044/sr-client-account-manager/?gh_jid=6899044"
+                },
+                {
+                    "title": "Engineering Manager II, Sales Productivity",
+                    "url": "https://www.pinterestcareers.com/jobs/6804345/engineering-manager-ii-sales-productivity/?gh_jid=6804345"
+                },
+                {
+                    "title": "Sales Strategy & Operations Lead",
+                    "url": "https://www.pinterestcareers.com/jobs/6483276/sales-strategy-operations-lead/?gh_jid=6483276"
+                },
+                {
+                    "title": "Measurement Lead, Greater China Region",
+                    "url": "https://www.pinterestcareers.com/jobs/6756418/measurement-lead-greater-china-region/?gh_jid=6756418"
+                },
+                {
+                    "title": "Principal Engineer, Online Infrastructure",
+                    "url": "https://www.pinterestcareers.com/jobs/6574652/principal-engineer-online-infrastructure/?gh_jid=6574652"
+                },
+                {
+                    "title": "Sr. Staff Software Engineer, Core Retrieval Infrastructure",
+                    "url": "https://www.pinterestcareers.com/jobs/6867844/sr-staff-software-engineer-core-retrieval-infrastructure/?gh_jid=6867844"
+                },
+                {
+                    "title": "Staff Software Engineer, Sales Productivity",
+                    "url": "https://www.pinterestcareers.com/jobs/6482897/staff-software-engineer-sales-productivity/?gh_jid=6482897"
+                },
+                {
+                    "title": "Client Account Manager - France",
+                    "url": "https://www.pinterestcareers.com/jobs/6736401/client-account-manager-france/?gh_jid=6736401"
+                },
+                {
+                    "title": "Global Mobility & Immigration Manager",
+                    "url": "https://www.pinterestcareers.com/jobs/6941967/global-mobility-immigration-manager/?gh_jid=6941967"
+                },
+                {
+                    "title": "Sr. iOS Engineer, Generative AI Products",
+                    "url": "https://www.pinterestcareers.com/jobs/6799095/sr-ios-engineer-generative-ai-products/?gh_jid=6799095"
+                },
+                {
+                    "title": "Software Engineer II",
+                    "url": "https://www.pinterestcareers.com/jobs/6773042/software-engineer-ii/?gh_jid=6773042"
+                },
+                {
+                    "title": "Senior Technical Program Manager, Trust & Safety",
+                    "url": "https://www.pinterestcareers.com/jobs/6878703/senior-technical-program-manager-trust-safety/?gh_jid=6878703"
+                },
+                {
+                    "title": "Lead Product Marketing Manager",
+                    "url": "https://www.pinterestcareers.com/jobs/6916707/lead-product-marketing-manager/?gh_jid=6916707"
+                },
+                {
+                    "title": "Agency Lead",
+                    "url": "https://www.pinterestcareers.com/jobs/6945094/agency-lead/?gh_jid=6945094"
+                },
+                {
+                    "title": "Sr. Software Engineer",
+                    "url": "https://www.pinterestcareers.com/jobs/6885884/sr-software-engineer/?gh_jid=6885884"
+                }
+            ]
+        }
+    },
+    {
+        "company_name": "Audible",
+        "career_page_url": "https://www.audiblecareers.com/search-jobs",
+        "scraped_data": {
+            "url": "https://www.audiblecareers.com/search-jobs",
+            "listings": [
+                {
+                    "title": "Newark, New JerseySoftware Development Engineer, PersonalizationJob ID: 3004153Technology",
+                    "url": "https://www.audiblecareers.com/job/newark/software-development-engineer-personalization/27552/82381127056"
+                },
+                {
+                    "title": "Newark, New JerseySoftware Development EngineerJob ID: 3004150Technology",
+                    "url": "https://www.audiblecareers.com/job/newark/software-development-engineer/27552/82381127040"
+                },
+                {
+                    "title": "Newark, New JerseySoftware Development EngineerJob ID: 3004157Technology",
+                    "url": "https://www.audiblecareers.com/job/newark/software-development-engineer/27552/82381127024"
+                },
+                {
+                    "title": "Newark, New JerseySoftware Development EngineerJob ID: 3004478Technology",
+                    "url": "https://www.audiblecareers.com/job/newark/software-development-engineer/27552/82381126976"
+                },
+                {
+                    "title": "Tokyo, JapanManager, Production Operations APAC – 12 months Keiyaku ShainJob ID: 3003991Content & Audible Studios",
+                    "url": "https://www.audiblecareers.com/job/tokyo/manager-production-operations-apac-12-months-keiyaku-shain/27552/82365364880"
+                },
+                {
+                    "title": "Newark, New JerseySenior Software Development Engineer, PersonalizationJob ID: 2962482Technology",
+                    "url": "https://www.audiblecareers.com/job/newark/senior-software-development-engineer-personalization/27552/80386089328"
+                },
+                {
+                    "title": "Mexico City, MexicoSenior Software Development Engineer, Marketing TechnologyJob ID: 2960717Technology",
+                    "url": "https://www.audiblecareers.com/job/mexico-city/senior-software-development-engineer-marketing-technology/27552/82256130560"
+                },
+                {
+                    "title": "Mexico City, MexicoSenior Software Development Engineer, Marketing Content Management SystemJob ID: 3003171Technology",
+                    "url": "https://www.audiblecareers.com/job/mexico-city/senior-software-development-engineer-marketing-content-management-system/27552/82256130528"
+                },
+                {
+                    "title": "Mexico City, MexicoSenior System Development Engineer, AudibleJob ID: 3003199Technology",
+                    "url": "https://www.audiblecareers.com/job/mexico-city/senior-system-development-engineer-audible/27552/82256130496"
+                },
+                {
+                    "title": "Berlin, GermanyMarketing Manager - International Expansion - 12 month contractJob ID: 2958608Brand & Marketing",
+                    "url": "https://www.audiblecareers.com/job/berlin/marketing-manager-international-expansion-12-month-contract/27552/80185644384"
+                },
+                {
+                    "title": "Mumbai, IndiaProduction Specialist - 12 month contractJob ID: 3001536Content & Audible Studios",
+                    "url": "https://www.audiblecareers.com/job/mumbai/production-specialist-12-month-contract/27552/82214675184"
+                }
+            ]
+        }
+    },
+    {
+        "company_name": "Dropbox",
+        "career_page_url": "https://jobs.dropbox.com/all-jobs",
+        "scraped_data": {
+            "url": "https://jobs.dropbox.com/all-jobs",
+            "listings": []
+        }
+    },
+    {
+        "company_name": "Webflow",
+        "career_page_url": "https://webflow.com/careers/roles",
+        "scraped_data": {
+            "url": "https://webflow.com/careers/roles",
+            "listings": []
+        }
+    },
+    {
+        "company_name": "Canva",
+        "career_page_url": "https://www.lifeatcanva.com/en/jobs/",
+        "scraped_data": {
+            "url": "https://www.lifeatcanva.com/en/jobs/",
+            "listings": [],
+            "error": "403 Client Error: Forbidden for url: https://www.lifeatcanva.com/en/jobs/"
+        }
+    },
+    {
+        "company_name": "Notion",
+        "career_page_url": "https://www.notion.com/careers",
+        "scraped_data": {
+            "url": "https://www.notion.com/careers",
+            "listings": [
+                {
+                    "title": "Enterprise Premium Support Agent, EMEADublin, Ireland",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6530664003"
+                },
+                {
+                    "title": "Enterprise Premium Support Agent, JapanTokyo, Japan",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6527995003"
+                },
+                {
+                    "title": "Enterprise Technical Support, DACHMunich, Germany",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6228902003"
+                },
+                {
+                    "title": "Enterprise Technical Support SpecialistHyderabad, India",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6550731003"
+                },
+                {
+                    "title": "Product Support Specialist, JapanTokyo, Japan",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6569162003"
+                },
+                {
+                    "title": "Support Lead, KoreaSeoul, South Korea",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6570837003"
+                },
+                {
+                    "title": "Support Manager, India HeadHyderabad, India",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6570874003"
+                },
+                {
+                    "title": "Customer Success Manager, EMEADublin, Ireland",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6515539003"
+                },
+                {
+                    "title": "Enterprise Customer Success Manager, AMERSan Francisco, California",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6602916003"
+                },
+                {
+                    "title": "Manager, Scaled Customer Success, AMERSan Francisco, California",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6570535003"
+                },
+                {
+                    "title": "Mid-Market Customer Success ManagerSan Francisco, California; New York, New York;",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6012342003"
+                },
+                {
+                    "title": "Scaled Customer Success Manager, DACHDublin, Ireland",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6337687003"
+                },
+                {
+                    "title": "AI Data Specialist (Contract)San Francisco, California",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6565449003"
+                },
+                {
+                    "title": "Engineering Manager, AI Automation & QAHyderabad, India",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6591124003"
+                },
+                {
+                    "title": "Engineering Manager, Product InfrastructureSan Francisco, California; New York, New York;",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6601800003"
+                },
+                {
+                    "title": "Engineering Manager, Web InfrastructureSan Francisco, California; New York, New York;",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6561577003"
+                },
+                {
+                    "title": "Software EngineerHyderabad, India",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/5180851003"
+                },
+                {
+                    "title": "Software Engineer, AI ProductSan Francisco, California; New York, New York;",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6596870003"
+                },
+                {
+                    "title": "Software Engineer, AndroidSan Francisco, California",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6151801003"
+                },
+                {
+                    "title": "Software Engineer, Cloud InfrastructureSan Francisco, California; New York, New York;",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6602892003"
+                },
+                {
+                    "title": "Software Engineer, Core ProductSan Francisco, California",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/4750859003"
+                },
+                {
+                    "title": "Software Engineer, Data PlatformSan Francisco, California",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/5953512003"
+                },
+                {
+                    "title": "Software Engineer, DatastoreSan Francisco, California; New York, New York;",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6336489003"
+                },
+                {
+                    "title": "Software Engineer, Deployment & ObservabilitySan Francisco, California",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6586253003"
+                },
+                {
+                    "title": "Software Engineer, FullstackHyderabad, India",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6484053003"
+                },
+                {
+                    "title": "Software Engineer, GrowthSan Francisco, California",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/5498520003"
+                },
+                {
+                    "title": "Software Engineer, Machine LearningSan Francisco, California; New York, New York;",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6336504003"
+                },
+                {
+                    "title": "Software Engineer, Mail (Backend)San Francisco, California; New York, New York;",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6558138003"
+                },
+                {
+                    "title": "Software Engineer, Mail (Frontend)San Francisco, California; New York, New York;",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6598244003"
+                },
+                {
+                    "title": "Software Engineer, Native macOS DevelopmentSan Francisco, California; New York, New York;",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6585275003"
+                },
+                {
+                    "title": "Software Engineer, Public APISan Francisco, California",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/5696775003"
+                },
+                {
+                    "title": "Procurement Contracts Manager (Contract)San Francisco, California",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6585058003"
+                },
+                {
+                    "title": "Senior AccountantSan Francisco, California",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6545297003"
+                },
+                {
+                    "title": "Senior AccountantNew York, New York",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6599794003"
+                },
+                {
+                    "title": "Strategic Sourcing Manager, GTM (Marketing, CX & Sales)San Francisco, California",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6568899003"
+                },
+                {
+                    "title": "Contract Management LeadSan Francisco, California",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6559471003"
+                },
+                {
+                    "title": "Legal Operations LeadSan Francisco, California",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6342167003"
+                },
+                {
+                    "title": "Product CounselSan Francisco, California; New York, New York;",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6603013003"
+                },
+                {
+                    "title": "AI Product Marketing ManagerSan Francisco, California; New York, New York;",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6340548003"
+                },
+                {
+                    "title": "APAC Demand Generation Marketing Lead, SydneySydney, Australia",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6512670003"
+                },
+                {
+                    "title": "Chief of Staff, MarketingSan Francisco, California",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6583246003"
+                },
+                {
+                    "title": "Head of Global Account Based MarketingSan Francisco, California",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6354892003"
+                },
+                {
+                    "title": "Internal Communications ManagerSan Francisco, California",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6551750003"
+                },
+                {
+                    "title": "Marketing Manager, DACHMunich, Germany",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6097710003"
+                },
+                {
+                    "title": "Marketing Manager, FranceParis, France",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6097704003"
+                },
+                {
+                    "title": "Marketing Manager, UKLondon, United Kingdom",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6347120003"
+                },
+                {
+                    "title": "Organic Content LeadSan Francisco, California",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6515025003"
+                },
+                {
+                    "title": "Business RecruiterSan Francisco, California",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6603016003"
+                },
+                {
+                    "title": "Technical RecruiterSan Francisco, California; New York, New York;",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6599931003"
+                },
+                {
+                    "title": "UX WriterSan Francisco, California; New York, New York;",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/5996465003"
+                },
+                {
+                    "title": "Product Lead, EnterpriseSan Francisco, California or New York, New York",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6505385003"
+                },
+                {
+                    "title": "Product Manager, GrowthSan Francisco, California",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6345904003"
+                },
+                {
+                    "title": "GTM Innovation LeadSan Francisco, California; New York, New York;",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6591571003"
+                },
+                {
+                    "title": "Account Executive, CommercialSan Francisco, California",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/5363418003"
+                },
+                {
+                    "title": "Account Executive, CommercialNew York, New York",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6035480003"
+                },
+                {
+                    "title": "Account Executive, Commercial, FranceDublin, Ireland",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6541121003"
+                },
+                {
+                    "title": "Account Executive - Commercial, JapanTokyo, Japan",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6325598003"
+                },
+                {
+                    "title": "Account Executive, Commercial, Northern EuropeDublin, Ireland",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6603817003"
+                },
+                {
+                    "title": "Account Executive, Commercial, Southern EuropeDublin, Ireland",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6317316003"
+                },
+                {
+                    "title": "Account Executive, Enterprise, DACHMunich, Germany",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6078772003"
+                },
+                {
+                    "title": "Account Executive, Enterprise, FranceParis, France",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6346585003"
+                },
+                {
+                    "title": "Account Executive - Enterprise, JapanTokyo, Japan",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6299646003"
+                },
+                {
+                    "title": "Account Executive, Enterprise, UKLondon, United Kingdom",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6605198003"
+                },
+                {
+                    "title": "Account Executive, KoreaSeoul, South Korea",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6523061003"
+                },
+                {
+                    "title": "Account Executive, Mid-MarketSan Francisco, California",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/4950918003"
+                },
+                {
+                    "title": "Account Executive, Mid-MarketNew York, New York",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/5852867003"
+                },
+                {
+                    "title": "Account Executive, Mid-Market, DACHDublin, Ireland",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6593362003"
+                },
+                {
+                    "title": "Account Executive - Mid Market, JapanTokyo, Japan",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6106773003"
+                },
+                {
+                    "title": "Account Executive, Mid-Market, Southern EuropeDublin, Ireland",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6605185003"
+                },
+                {
+                    "title": "Certification Program ManagerSan Francisco, California; New York, New York;",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6574877003"
+                },
+                {
+                    "title": "Channel Partner Manager, North AmericaSan Francisco, California; New York, New York;",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6524330003"
+                },
+                {
+                    "title": "Enterprise Account ExecutiveNew York, New York",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6347301003"
+                },
+                {
+                    "title": "Enterprise Account ExecutiveSan Francisco, California",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6336388003"
+                },
+                {
+                    "title": "Manager, Commercial Sales - NYCNew York, New York",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6581240003"
+                },
+                {
+                    "title": "Manager, Renewals Manager (AMER)New York, New York; San Francisco, California",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6589803003"
+                },
+                {
+                    "title": "Notion Consultants LeadSan Francisco, California; New York, New York;",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6575940003"
+                },
+                {
+                    "title": "Renewals Manager, EMEADublin, Ireland",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6341488003"
+                },
+                {
+                    "title": "Sales Manager, Mid-Market, Southern EuropeDublin, Ireland",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6057810003"
+                },
+                {
+                    "title": "Internal Workspace ArchitectSan Francisco, California",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6559752003"
+                },
+                {
+                    "title": "Product Operations ManagerSan Francisco, California",
+                    "url": "https://job-boards.greenhouse.io/notion/jobs/6252981003"
+                }
+            ]
+        }
+    },
+    {
+        "company_name": "Hubspot",
+        "career_page_url": "https://www.hubspot.com/careers/jobs/all?page=1#language=english;",
+        "scraped_data": {
+            "url": "https://www.hubspot.com/careers/jobs/all?page=1#language=english;",
+            "listings": [
+                {
+                    "title": "Product, UX & Engineering",
+                    "url": "https://www.hubspot.com/careers/product-ux-engineering"
+                },
+                {
+                    "title": "Operations",
+                    "url": "https://www.hubspot.com/careers/operations"
+                }
+            ]
+        }
+    },
+    {
+        "company_name": "ServiceNow",
+        "career_page_url": "https://careers.servicenow.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=User%20Experience&team=User%20Experience%20Design",
+        "scraped_data": {
+            "url": "https://careers.servicenow.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=User%20Experience&team=User%20Experience%20Design",
+            "listings": [],
+            "error": "403 Client Error: Forbidden for url: https://careers.servicenow.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=User%20Experience&team=User%20Experience%20Design"
+        }
+    },
+    {
+        "company_name": "Amplitude",
+        "career_page_url": "https://job-boards.greenhouse.io/amplitude",
+        "scraped_data": {
+            "url": "https://job-boards.greenhouse.io/amplitude",
+            "listings": [
+                {
+                    "title": "Product Manager (Customer Success)NewAtlanta, GA; Austin, TX",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8028277002"
+                },
+                {
+                    "title": "Product Manager (Enterprise Customer Success)NewSao Paulo, Brazil",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8028228002"
+                },
+                {
+                    "title": "Product Manager (Enterprise Customer Success)NewMexico City, Mexico",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8028268002"
+                },
+                {
+                    "title": "Senior Customer Success ArchitectNewAtlanta, GA",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8025548002"
+                },
+                {
+                    "title": "Senior Customer Success ArchitectNewPhiladelphia, PA",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8025553002"
+                },
+                {
+                    "title": "Senior Customer Success ArchitectNewRaleigh, NC; Remote - East",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8025554002"
+                },
+                {
+                    "title": "Senior Customer Success ArchitectNewWashington, DC",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8025558002"
+                },
+                {
+                    "title": "Senior Customer Success ArchitectNewBoston, MA; Remote - East",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8025559002"
+                },
+                {
+                    "title": "Senior Customer Success ArchitectNewArlington, VA",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8031598002"
+                },
+                {
+                    "title": "Sr. Engagement ManagerBangalore, India",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8011945002"
+                },
+                {
+                    "title": "Senior Full Stack Engineer, ExperimentSan Francisco, CA",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/7807975002"
+                },
+                {
+                    "title": "Senior Product Engineer, ExperimentSan Francisco, CA",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/7765960002"
+                },
+                {
+                    "title": "Software Engineering ManagerSan Francisco, CA",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/7919693002"
+                },
+                {
+                    "title": "Staff Software Engineer, ActivationSan Francisco, CA",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8015212002"
+                },
+                {
+                    "title": "Staff Software Engineer, ActivationVancouver, BC, Canada",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8015216002"
+                },
+                {
+                    "title": "Senior Product Engineer, GrowthSan Francisco, CA",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/7897466002"
+                },
+                {
+                    "title": "Senior DevOps Engineer (Security Focus)San Francisco, CA",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/7980649002"
+                },
+                {
+                    "title": "Senior DevSecOps EngineerSan Francisco, CA",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/7970318002"
+                },
+                {
+                    "title": "Senior GraphQL Engineer (Security)San Francisco, CA",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8009863002"
+                },
+                {
+                    "title": "Senior Security EngineerSan Francisco, CA",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/7940252002"
+                },
+                {
+                    "title": "Manager, APJ Technical SupportSingapore",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/7985930002"
+                },
+                {
+                    "title": "Demand Generation ManagerBangalore, India",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/7804350002"
+                },
+                {
+                    "title": "Head of Talent OperationsNewRemote - USA; San Francisco, CA; Vancouver, BC, Canada",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8028751002"
+                },
+                {
+                    "title": "Experiment Product EvangelistSan Francisco, CA",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/7909195002"
+                },
+                {
+                    "title": "Senior Customer Data ScientistSan Francisco, CA",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/7896443002"
+                },
+                {
+                    "title": "Sr Product Manager, DataSan Francisco, CA",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/7945603002"
+                },
+                {
+                    "title": "Senior Product Manager, Marketing AnalyticsSan Francisco, CA",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8000588002"
+                },
+                {
+                    "title": "Product Operations ManagerSan Francisco, CA",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8009964002"
+                },
+                {
+                    "title": "Enterprise Account ExecutiveChicago, IL",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/7512054002"
+                },
+                {
+                    "title": "Enterprise Account ExecutiveSan Francisco, CA",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/7807597002"
+                },
+                {
+                    "title": "Enterprise Account ExecutiveSeattle, WA",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/7810669002"
+                },
+                {
+                    "title": "Enterprise Account ExecutivePortland, OR",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/7810672002"
+                },
+                {
+                    "title": "Enterprise Account ExecutiveToronto, ON, Canada",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/7814579002"
+                },
+                {
+                    "title": "Enterprise Account ExecutiveDenver, CO",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/7906208002"
+                },
+                {
+                    "title": "Enterprise Account Executive (DACH)NewRemote - Germany",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8023468002"
+                },
+                {
+                    "title": "Partner Sales ManagerRemote - USA",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/7959611002"
+                },
+                {
+                    "title": "Partner Sales ManagerSao Paulo, Brazil",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/7959721002"
+                },
+                {
+                    "title": "Partner Solutions Architect - AWSRemote - USA",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8000116002"
+                },
+                {
+                    "title": "Product Evangelist & StrategyRemote - USA",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/7845365002"
+                },
+                {
+                    "title": "Senior Solutions Engineer, Strategic Accounts - Central RegionChicago, IL",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/7857529002"
+                },
+                {
+                    "title": "Senior Solutions Engineer, Strategic Accounts - Central RegionAustin, TX",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/7920640002"
+                },
+                {
+                    "title": "Senior Solutions Engineer, Strategic Accounts - Central RegionIndianapolis, Indiana",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/7921634002"
+                },
+                {
+                    "title": "Senior Solutions Engineer, Strategic Accounts - Central RegionMinneapolis, Minnesota",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/7921635002"
+                },
+                {
+                    "title": "Senior Solutions Engineer, Strategic Accounts - Northeast RegionBoston, MA; New York, NY; Philadelphia, PA",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/7808054002"
+                }
+            ]
+        }
+    },
+    {
+        "company_name": "Marriott",
+        "career_page_url": "https://careers.marriott.com/career-journeys/corporate/jobs?filter%5Bcountry%5D%5B0%5D=Canada&filter%5Bcountry%5D%5B1%5D=United%20States&filter%5Bcountry%5D%5B2%5D=United%20Kingdom&filter%5Bemployment_type%5D%5B0%5D=Full%20Time&filter%5Bemployment_type%5D%5B1%5D=Part%20Time",
+        "scraped_data": {
+            "url": "https://careers.marriott.com/career-journeys/corporate/jobs?filter%5Bcountry%5D%5B0%5D=Canada&filter%5Bcountry%5D%5B1%5D=United%20States&filter%5Bcountry%5D%5B2%5D=United%20Kingdom&filter%5Bemployment_type%5D%5B0%5D=Full%20Time&filter%5Bemployment_type%5D%5B1%5D=Part%20Time",
+            "listings": [
+                {
+                    "title": "Analyst, Data and Reporting - Global Development25089567",
+                    "url": "https://careers.marriott.com/analyst-data-and-reporting-global-development/job/720A862AB941FB0A5E82198B0C7A94D1"
+                },
+                {
+                    "title": "Application Support Analyst25084172Remote",
+                    "url": "https://careers.marriott.com/application-support-analyst/job/38F2623B8C730187D0381F2CA045D95A"
+                },
+                {
+                    "title": "Area Information Technology Manager25068759",
+                    "url": "https://careers.marriott.com/area-information-technology-manager/job/F1A43126099FA47A8C7B5494B1F811BD"
+                },
+                {
+                    "title": "Area Sales Leader 1 Colorado and Las Vegas25077430Remote",
+                    "url": "https://careers.marriott.com/area-sales-leader-1-colorado-and-las-vegas/job/4F4EC1580683B25E819FFC8942BDE28D"
+                },
+                {
+                    "title": "Area Sales Leader 1 Washington DC and Virginia25088095Remote",
+                    "url": "https://careers.marriott.com/area-sales-leader-1-washington-dc-and-virginia/job/218BB7A715D0FF61DE74C1ED6F80FB9D"
+                },
+                {
+                    "title": "Area Sales Leader Miami Florida25087990Remote",
+                    "url": "https://careers.marriott.com/area-sales-leader-miami-florida/job/2843C69E44724040D123BBCE7456C197"
+                },
+                {
+                    "title": "Assistant Manager - Financial Contract Compliance Governance25062398",
+                    "url": "https://careers.marriott.com/assistant-manager-financial-contract-compliance-governance/job/C0ED5DBB11F1E65FF9772211807B6D7B"
+                },
+                {
+                    "title": "Assistant Manager Financial Contract Compliance25076363",
+                    "url": "https://careers.marriott.com/assistant-manager-financial-contract-compliance/job/390EA383932A29D9D4DB5F0F5DA20F63"
+                },
+                {
+                    "title": "Assistant Manager Tax Compliance (Analyst)25093315",
+                    "url": "https://careers.marriott.com/assistant-manager-tax-compliance-analyst/job/0A7D738ABEFA0E71C86210CF118964A0"
+                }
+            ]
+        }
+    }
+]
