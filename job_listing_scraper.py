@@ -16,20 +16,22 @@ from company_data_retriever import retrieve_companies_from_sheet
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # --- DEFINE THESE GLOBALLY (AT THE TOP LEVEL OF YOUR FILE) ---
-job_keywords = ["engineer", "developer", "manager", "analyst", "designer",
-                "specialist", "director", "lead", "architect", "associate",
-                "intern", "principal", "consultant", "recruiter", "sales",
-                "marketing", "product", "data scientist", "researcher",
-                "software", "hardware", "ux", "ui", "operations", "finance",
-                "hr", "support", "account", "expert", "senior", "junior",
-                "staff", "staffing", "technician", "business", "legal", "counsel"]
+job_keywords = [
+        "product design", "ux design", "user experience", "design leader", "senior manager ux", "senior manager product design", "design manager",
+        "director of product", "director of design", "head of product design", "head of ux", "staff product designer", "senior director of UX"
+        "vp product design", "ux research", "product strategy", "design strategy", "principal product manager", "senior director product design",
+        "roadmapping", "0-1", "user research", "ux research", "principal", "inclusive design",
+        "design systems", "design operations", "design ops", "design system", "product design system",
+]
 
 excluded_keywords = ["cookie", "privacy", "help", "careers", "about", "blog",
                      "login", "sign", "policy", "terms", "faq", "jobsjobs",
                      "person_outline", "work_outline", "search", "results",
                      "dashboard", "preferences", "categories", "alerts",
                      "eec", "eeo", "how we hire", "know your rights", "equal opportunity",
-                     "contact"]
+                     "contact", "junior", "associate", "intern", "entry-level", "graphic design",
+                    "visual design", "marketing design", "developer", "engineer", "frontend",
+                    "backend", "sales"]
 # --- END GLOBAL DEFINITIONS ---
 
 
@@ -194,7 +196,7 @@ async def scrape_company_jobs_with_playwright(company_url, company_name):
         logging.info(f"  Attempting to scrape (Playwright): {company_url}")
         async with async_playwright() as p:
             # Set headless=False for debugging, True for production
-            browser = await p.chromium.launch(headless=False, slow_mo=500)
+            browser = await p.chromium.launch(headless=True, slow_mo=500)
             page = await browser.new_page()
 
             listings = []
