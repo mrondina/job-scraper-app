@@ -4,16 +4,7 @@
         "career_page_url": "https://www.google.com/about/careers/applications/jobs/results?q=product%20design&location=San%20Francisco%2C%20CA%2C%20USA&location=New%20York%2C%20NY%2C%20USA&location=Seattle%2C%20WA%2C%20USA&location=Mountain%20View%2C%20CA%2C%20USA&target_level=MID&target_level=ADVANCED&target_level=DIRECTOR_PLUS",
         "scraped_data": {
             "url": "https://www.google.com/about/careers/applications/jobs/results?q=product%20design&location=San%20Francisco%2C%20CA%2C%20USA&location=New%20York%2C%20NY%2C%20USA&location=Seattle%2C%20WA%2C%20USA&location=Mountain%20View%2C%20CA%2C%20USA&target_level=MID&target_level=ADVANCED&target_level=DIRECTOR_PLUS",
-            "listings": [
-                {
-                    "title": "Principal Analyst, Gen AI, Trust and Safety",
-                    "url": "https://www.google.com/about/careers/applications/jobs/jobs/results/105995474028110534-principal-analyst-gen-ai-trust-and-safety?q=product%20design&location=San%20Francisco%2C%20CA%2C%20USA&location=New%20York%2C%20NY%2C%20USA&location=Seattle%2C%20WA%2C%20USA&location=Mountain%20View%2C%20CA%2C%20USA&target_level=MID&target_level=ADVANCED&target_level=DIRECTOR_PLUS&page=32"
-                },
-                {
-                    "title": "Principal Architect IV, Google Cloud",
-                    "url": "https://www.google.com/about/careers/applications/jobs/jobs/results/109590265353642694-principal-architect-iv-google-cloud?q=product%20design&location=San%20Francisco%2C%20CA%2C%20USA&location=New%20York%2C%20NY%2C%20USA&location=Seattle%2C%20WA%2C%20USA&location=Mountain%20View%2C%20CA%2C%20USA&target_level=MID&target_level=ADVANCED&target_level=DIRECTOR_PLUS&page=33"
-                }
-            ],
+            "listings": [],
             "error": null
         }
     },
@@ -24,8 +15,12 @@
             "url": "https://careers.adobe.com/us/en/c/design-jobs",
             "listings": [
                 {
-                    "title": "Principal Scientist",
-                    "url": "https://careers.adobe.com/us/en/job/R146024/Principal-Scientist"
+                    "title": "Principal Product Manager- Firefly Generative Imaging",
+                    "url": "https://careers.adobe.com/us/en/job/R154979/Principal-Product-Manager-Firefly-Generative-Imaging"
+                },
+                {
+                    "title": "Apply NowPrincipal Product Manager- Firefly Generative Imaging",
+                    "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR154979EXTERNALENUS"
                 }
             ],
             "error": null
@@ -47,27 +42,19 @@
             "url": "https://jobs.careers.microsoft.com/global/en/search?p=Design%20%26%20Creative&p=Product%20Management&p=Program%20Management&exp=Experienced%20professionals&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true",
             "listings": [
                 {
-                    "title": "​​Principal Product Manager​",
+                    "title": "Principal Product Manager- Office Shared Services and Experiences",
                     "url": null
                 },
                 {
-                    "title": "Principal Technical Program Architect - HPC/AI, Azure Core",
+                    "title": "Principal Program Manager- Power CAT",
                     "url": null
                 },
                 {
-                    "title": "Principal Technical Program Manager – COGS Strategy & Optimization",
+                    "title": "Principal Program Manager",
                     "url": null
                 },
                 {
-                    "title": "Principal Technical Program Manager - Super Computer Delivery",
-                    "url": null
-                },
-                {
-                    "title": "Principal Technical Program Manager",
-                    "url": null
-                },
-                {
-                    "title": "Principal Product Manager",
+                    "title": "Principal Product Manager, Security Copilot (AI Security & Secure AI)",
                     "url": null
                 }
             ],
@@ -81,12 +68,8 @@
             "url": "https://www.amazon.jobs/en/search?base_query=&loc_query=United+States&type=area&longitude=-77.03196&latitude=38.89036&country=USA",
             "listings": [
                 {
-                    "title": "Principal Business Development - Tech Manager, Entertainment, Devices & Grocery ad Experiences",
-                    "url": "https://www.amazon.jobs/en/jobs/2951287/principal-business-development-tech-manager-entertainment-devices-grocery-ad-experiences"
-                },
-                {
-                    "title": "Principal Scientist, Applied Science, Amazon One",
-                    "url": "https://www.amazon.jobs/en/jobs/2945392/principal-scientist-applied-science-amazon-one"
+                    "title": "Principal Technical Program Manager, Vulnerability Management Initiatives, Products, and Services",
+                    "url": "https://www.amazon.jobs/en/jobs/3004903/principal-technical-program-manager-vulnerability-management-initiatives-products-and-services"
                 }
             ],
             "error": null
@@ -122,7 +105,12 @@
         "career_page_url": "https://careers.airbnb.com/positions/?_offices=united-states%2Ccanada%2Clondon-united-kingdom",
         "scraped_data": {
             "url": "https://careers.airbnb.com/positions/?_offices=united-states%2Ccanada%2Clondon-united-kingdom",
-            "listings": [],
+            "listings": [
+                {
+                    "title": "Directeur·rice principal·e des services spécialisés (Canada)",
+                    "url": "https://careers.airbnb.com/positions/6797821/"
+                }
+            ],
             "error": null
         }
     },
@@ -136,46 +124,45 @@
         }
     },
     {
-        "company_name": "GoodRx",
-        "career_page_url": "https://goodrx.wd1.myworkdayjobs.com/careers",
-        "scraped_data": {
-            "url": "https://goodrx.wd1.myworkdayjobs.com/careers",
-            "listings": [],
-            "error": null
-        }
-    },
-    {
         "company_name": "Walmart",
         "career_page_url": "https://careers.walmart.com/results?q=&page=1&sort=rank&jobCategory=00000161-8bda-d3dd-a1fd-bbda62130000&jobSubCategory=0000015a-a530-d06d-af5f-f5b37f790000,0000018b-4862-dd60-a3af-6dff47da0000,0000018b-491d-de4a-ad9f-59df9d780000&jobDepartmentCode=00000161-8bda-d3dd-a1fd-bbda62130000&jobEmploymentType=0000015a-721c-dcbc-afda-779e92ad0000,0000015a-721e-dcbc-afda-779e5a430000,0000015a-721d-de53-ab7e-767ff1d80000&expand=department,00000159-7574-d286-a3f9-7ff45f640000,00000159-7597-d2b4-abdd-f5b79c9d0000,00000159-75a1-d286-a3f9-7fa114fa0000,00000159-75a6-d2b4-abdd-f5a7fdd80000,0000015e-f1eb-d841-a15f-f7eb14100000,brand,type,rate&type=jobs",
         "scraped_data": {
             "url": "https://careers.walmart.com/results?q=&page=1&sort=rank&jobCategory=00000161-8bda-d3dd-a1fd-bbda62130000&jobSubCategory=0000015a-a530-d06d-af5f-f5b37f790000,0000018b-4862-dd60-a3af-6dff47da0000,0000018b-491d-de4a-ad9f-59df9d780000&jobDepartmentCode=00000161-8bda-d3dd-a1fd-bbda62130000&jobEmploymentType=0000015a-721c-dcbc-afda-779e92ad0000,0000015a-721e-dcbc-afda-779e5a430000,0000015a-721d-de53-ab7e-767ff1d80000&expand=department,00000159-7574-d286-a3f9-7ff45f640000,00000159-7597-d2b4-abdd-f5b79c9d0000,00000159-75a1-d286-a3f9-7fa114fa0000,00000159-75a6-d2b4-abdd-f5a7fdd80000,0000015e-f1eb-d841-a15f-f7eb14100000,brand,type,rate&type=jobs",
             "listings": [
                 {
+                    "title": "Principal, Product Manager - eCommerce & Supply Chain",
+                    "url": "https://careers.walmart.com/us/jobs/WD2154795-principal-product-manager-ecommerce-supply-chain"
+                },
+                {
                     "title": "Principal, Product Manager - Agentic Automation",
                     "url": "https://careers.walmart.com/us/jobs/WD2174023-principal-product-manager-agentic-automation"
                 },
                 {
-                    "title": "(USA) Principal, Product Manager",
-                    "url": "https://careers.walmart.com/us/jobs/WD2184036-usa-principal-product-manager"
-                },
-                {
-                    "title": "(USA) Principal, Product Manager",
-                    "url": "https://careers.walmart.com/us/jobs/WD2184039-usa-principal-product-manager"
+                    "title": "Senior Manager, Product Management, Commercial Finance Reporting & Analytics",
+                    "url": "https://careers.walmart.com/us/jobs/WD2179719-senior-manager-product-management-commercial-finance-reporting-analytics"
                 },
                 {
                     "title": "(USA) Principal, Product Manager",
                     "url": "https://careers.walmart.com/us/jobs/WD2154583-usa-principal-product-manager"
                 },
                 {
-                    "title": "Senior Manager (Principal), Product Management - Finance Data Factory",
-                    "url": "https://careers.walmart.com/us/jobs/WD2159836-senior-manager-principal-product-management-finance-data-factory"
+                    "title": "(USA) Principal, Product Manager",
+                    "url": "https://careers.walmart.com/us/jobs/WD2174447-usa-principal-product-manager"
                 },
                 {
-                    "title": "(USA) Principal, Product Manager",
-                    "url": "https://careers.walmart.com/us/jobs/WD2104751-usa-principal-product-manager"
+                    "title": "Senior Manager, Product Management",
+                    "url": "https://careers.walmart.com/us/jobs/WD2190028-senior-manager-product-management"
                 }
             ],
             "error": null
+        }
+    },
+    {
+        "company_name": "Mixpanel",
+        "career_page_url": "https://mixpanel.com/jobs/",
+        "scraped_data": {
+            "url": "https://mixpanel.com/jobs/",
+            "listings": []
         }
     },
     {
@@ -183,6 +170,35 @@
         "career_page_url": "https://job-boards.greenhouse.io/branch",
         "scraped_data": {
             "url": "https://job-boards.greenhouse.io/branch",
+            "listings": []
+        }
+    },
+    {
+        "company_name": "Amplitude",
+        "career_page_url": "https://job-boards.greenhouse.io/amplitude",
+        "scraped_data": {
+            "url": "https://job-boards.greenhouse.io/amplitude",
+            "listings": [
+                {
+                    "title": "Senior Manager, Growth Marketing – Web & DigitalRemote - USA",
+                    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8040232002"
+                }
+            ]
+        }
+    },
+    {
+        "company_name": "DataDog",
+        "career_page_url": "https://careers.datadoghq.com/all-jobs/?s=",
+        "scraped_data": {
+            "url": "https://careers.datadoghq.com/all-jobs/?s=",
+            "listings": []
+        }
+    },
+    {
+        "company_name": "Splunk",
+        "career_page_url": "https://www.splunk.com/en_us/careers/search-jobs.html",
+        "scraped_data": {
+            "url": "https://www.splunk.com/en_us/careers/search-jobs.html",
             "listings": []
         }
     },
@@ -196,9 +212,9 @@
     },
     {
         "company_name": "Pinterest",
-        "career_page_url": "https://www.pinterestcareers.com/jobs/",
+        "career_page_url": "https://www.pinterestcareers.com/jobs/?search=&team=Design&pagesize=20#results",
         "scraped_data": {
-            "url": "https://www.pinterestcareers.com/jobs/",
+            "url": "https://www.pinterestcareers.com/jobs/?search=&team=Design&pagesize=20#results",
             "listings": []
         }
     },
@@ -247,10 +263,462 @@
     },
     {
         "company_name": "Hubspot",
-        "career_page_url": "https://www.hubspot.com/careers/jobs/all?page=1#language=english;",
+        "career_page_url": "https://www.hubspot.com/careers/jobs?hubs_signup-cta=careers-nav-cta&page=1&hubs_content=www.hubspot.com%2F&hubs_content-cta=careers#department=product-ux-engineering;",
         "scraped_data": {
-            "url": "https://www.hubspot.com/careers/jobs/all?page=1#language=english;",
-            "listings": []
+            "url": "https://www.hubspot.com/careers/jobs?hubs_signup-cta=careers-nav-cta&page=1&hubs_content=www.hubspot.com%2F&hubs_content-cta=careers#department=product-ux-engineering;",
+            "listings": [
+                {
+                    "title": "Anaplan Architect",
+                    "url": "https://www.hubspot.com/careers/jobs/6706530?hubs_signup-cta=careers-apply"
+                },
+                {
+                    "title": "Front End Technical Lead II",
+                    "url": "https://www.hubspot.com/careers/jobs/6963035?hubs_signup-cta=careers-apply"
+                },
+                {
+                    "title": "Principal Product Designer, Automation",
+                    "url": "https://www.hubspot.com/careers/jobs/6954085?hubs_signup-cta=careers-apply"
+                },
+                {
+                    "title": "Senior Director of UX Design – Growth Platform Experiences",
+                    "url": "https://www.hubspot.com/careers/jobs/6402900?hubs_signup-cta=careers-apply"
+                },
+                {
+                    "title": "Senior Product Designer II, AI Customer Agent",
+                    "url": "https://www.hubspot.com/careers/jobs/6780853?hubs_signup-cta=careers-apply"
+                },
+                {
+                    "title": "Senior Product Designer II, Merchant Services",
+                    "url": "https://www.hubspot.com/careers/jobs/6880844?hubs_signup-cta=careers-apply"
+                },
+                {
+                    "title": "Senior Product Designer II, Records",
+                    "url": "https://www.hubspot.com/careers/jobs/6329504?hubs_signup-cta=careers-apply"
+                },
+                {
+                    "title": "Senior Product Designer II, Segments",
+                    "url": "https://www.hubspot.com/careers/jobs/6696476?hubs_signup-cta=careers-apply"
+                },
+                {
+                    "title": "Senior Product Designer II, Service Hub",
+                    "url": "https://www.hubspot.com/careers/jobs/6528756?hubs_signup-cta=careers-apply"
+                },
+                {
+                    "title": "Senior Product Manager, Customer Success Product Group",
+                    "url": "https://www.hubspot.com/careers/jobs/6986343?hubs_signup-cta=careers-apply"
+                },
+                {
+                    "title": "Senior Product Manager, Customer Success Product Group",
+                    "url": "https://www.hubspot.com/careers/jobs/7016334?hubs_signup-cta=careers-apply"
+                },
+                {
+                    "title": "Senior Product Manager, Developer Product Group",
+                    "url": "https://www.hubspot.com/careers/jobs/5992713?hubs_signup-cta=careers-apply"
+                }
+            ],
+            "error": null
+        }
+    },
+    {
+        "company_name": "Asana",
+        "career_page_url": "https://asana.com/jobs/all",
+        "scraped_data": {
+            "url": "https://asana.com/jobs/all",
+            "listings": [
+                {
+                    "title": "Senior Data Science Manager, Marketing",
+                    "url": "https://asana.com/jobs/apply/6806520"
+                },
+                {
+                    "title": "Customer Success Manager, Named Accounts",
+                    "url": "https://asana.com/jobs/apply/6854115"
+                },
+                {
+                    "title": "Implementation Consultant",
+                    "url": "https://asana.com/jobs/apply/6878686"
+                },
+                {
+                    "title": "Implementation Manager",
+                    "url": "https://asana.com/jobs/apply/6872331"
+                },
+                {
+                    "title": "Implementation Manager",
+                    "url": "https://asana.com/jobs/apply/6873658"
+                },
+                {
+                    "title": "Implementation Manager",
+                    "url": "https://asana.com/jobs/apply/6887946"
+                },
+                {
+                    "title": "Professional Services Consultant",
+                    "url": "https://asana.com/jobs/apply/6816039"
+                },
+                {
+                    "title": "Renewals Manager",
+                    "url": "https://asana.com/jobs/apply/6862853"
+                },
+                {
+                    "title": "Renewals Manager",
+                    "url": "https://asana.com/jobs/apply/6736078"
+                },
+                {
+                    "title": "Services Pre-Sales Manager",
+                    "url": "https://asana.com/jobs/apply/6806567"
+                },
+                {
+                    "title": "Technical Services Consultant",
+                    "url": "https://asana.com/jobs/apply/6893632"
+                },
+                {
+                    "title": "API Support Developer",
+                    "url": "https://asana.com/jobs/apply/6738603"
+                },
+                {
+                    "title": "Designated Support Engineer",
+                    "url": "https://asana.com/jobs/apply/7014524"
+                },
+                {
+                    "title": "Head of Technical Account Management",
+                    "url": "https://asana.com/jobs/apply/6976311"
+                },
+                {
+                    "title": "Support Operations Manager, Tools & Automation",
+                    "url": "https://asana.com/jobs/apply/6948732"
+                },
+                {
+                    "title": "Technical Account Manager",
+                    "url": "https://asana.com/jobs/apply/6806667"
+                },
+                {
+                    "title": "Enterprise Technology AI Engineer",
+                    "url": "https://asana.com/jobs/apply/6921682"
+                },
+                {
+                    "title": "Product Manager",
+                    "url": "https://asana.com/jobs/apply/6828975"
+                },
+                {
+                    "title": "Salesforce Engineer",
+                    "url": "https://asana.com/jobs/apply/5827807"
+                },
+                {
+                    "title": "Salesforce Engineering Manager",
+                    "url": "https://asana.com/jobs/apply/6878797"
+                },
+                {
+                    "title": "Salesforce Product Owner",
+                    "url": "https://asana.com/jobs/apply/6388548"
+                },
+                {
+                    "title": "Salesforce QA Manager",
+                    "url": "https://asana.com/jobs/apply/6874133"
+                },
+                {
+                    "title": "Salesforce UX Designer",
+                    "url": "https://asana.com/jobs/apply/6679386"
+                },
+                {
+                    "title": "Senior Data Engineer",
+                    "url": "https://asana.com/jobs/apply/6806216"
+                },
+                {
+                    "title": "Senior Data Engineer",
+                    "url": "https://asana.com/jobs/apply/6749982"
+                },
+                {
+                    "title": "Business Development Representative",
+                    "url": "https://asana.com/jobs/apply/6806660"
+                },
+                {
+                    "title": "Business Development Representative",
+                    "url": "https://asana.com/jobs/apply/5677738"
+                },
+                {
+                    "title": "Head of Lead to Renewal",
+                    "url": "https://asana.com/jobs/apply/6806544"
+                },
+                {
+                    "title": "Inbound Sales Development Representative",
+                    "url": "https://asana.com/jobs/apply/5677728"
+                },
+                {
+                    "title": "Manager, Business Development",
+                    "url": "https://asana.com/jobs/apply/7004489"
+                },
+                {
+                    "title": "Opportunity to Cash Business Process Manager",
+                    "url": "https://asana.com/jobs/apply/6923500"
+                },
+                {
+                    "title": "Revenue Operations Manager - International",
+                    "url": "https://asana.com/jobs/apply/6806582"
+                },
+                {
+                    "title": "Revenue Strategy Analyst",
+                    "url": "https://asana.com/jobs/apply/6805249"
+                },
+                {
+                    "title": "Sales Development Representative-Spanish Speaking",
+                    "url": "https://asana.com/jobs/apply/6957643"
+                },
+                {
+                    "title": "Sales Enablement Manager, APJ",
+                    "url": "https://asana.com/jobs/apply/6813737"
+                },
+                {
+                    "title": "Sales Programs Manager - New Business",
+                    "url": "https://asana.com/jobs/apply/6806577"
+                },
+                {
+                    "title": "Data Analyst",
+                    "url": "https://asana.com/jobs/apply/6816773"
+                },
+                {
+                    "title": "Digital, Front-End Developer",
+                    "url": "https://asana.com/jobs/apply/6806044"
+                },
+                {
+                    "title": "Lead Gen Manager, Paid Media",
+                    "url": "https://asana.com/jobs/apply/6873944"
+                },
+                {
+                    "title": "Lifecycle Operations Specialist, Campaigns",
+                    "url": "https://asana.com/jobs/apply/6736668"
+                },
+                {
+                    "title": "Paid Media Manager",
+                    "url": "https://asana.com/jobs/apply/6806549"
+                },
+                {
+                    "title": "Senior Data Analyst",
+                    "url": "https://asana.com/jobs/apply/6751911"
+                },
+                {
+                    "title": "Corporate Account Executive",
+                    "url": "https://asana.com/jobs/apply/6948747"
+                },
+                {
+                    "title": "Corporate Account Executive",
+                    "url": "https://asana.com/jobs/apply/6981655"
+                },
+                {
+                    "title": "DACH Enterprise Expansion Account Executive",
+                    "url": "https://asana.com/jobs/apply/6868862"
+                },
+                {
+                    "title": "Emerging Enterprise Account Executive, Education & Public Sector (SLED)",
+                    "url": "https://asana.com/jobs/apply/6889270"
+                },
+                {
+                    "title": "Emerging Enterprise Sales Manager",
+                    "url": "https://asana.com/jobs/apply/6878160"
+                },
+                {
+                    "title": "Enterprise Account Executive",
+                    "url": "https://asana.com/jobs/apply/6996802"
+                },
+                {
+                    "title": "Enterprise Solutions Consultant",
+                    "url": "https://asana.com/jobs/apply/6859364"
+                },
+                {
+                    "title": "Head of UKI",
+                    "url": "https://asana.com/jobs/apply/6882045"
+                },
+                {
+                    "title": "Sales Manager, New Business",
+                    "url": "https://asana.com/jobs/apply/6908978"
+                },
+                {
+                    "title": "Strategic Enterprise Account Manager",
+                    "url": "https://asana.com/jobs/apply/6976173"
+                },
+                {
+                    "title": "Customer Trust Expert - Risk & Compliance",
+                    "url": "https://asana.com/jobs/apply/6678629"
+                },
+                {
+                    "title": "Engineering Manager",
+                    "url": "https://asana.com/jobs/apply/6174752"
+                },
+                {
+                    "title": "Engineering Manager, Data Infrastructure",
+                    "url": "https://asana.com/jobs/apply/6806535"
+                },
+                {
+                    "title": "Engineering Manager, Framework Engineering Reykjavik",
+                    "url": "https://asana.com/jobs/apply/6378428"
+                },
+                {
+                    "title": "Security Risk and Compliance Lead",
+                    "url": "https://asana.com/jobs/apply/6806674"
+                },
+                {
+                    "title": "Senior Software Engineer, Framework Engineering Reykjavik",
+                    "url": "https://asana.com/jobs/apply/6361127"
+                },
+                {
+                    "title": "Software Engineer, Reykjavik",
+                    "url": "https://asana.com/jobs/apply/5480143"
+                },
+                {
+                    "title": "Staff Software Engineer, Site Reliability",
+                    "url": "https://asana.com/jobs/apply/6887013"
+                },
+                {
+                    "title": "Senior Data Scientist",
+                    "url": "https://asana.com/jobs/apply/6352958"
+                },
+                {
+                    "title": "Engineering Manager, Communications Integrations",
+                    "url": "https://asana.com/jobs/apply/7019094"
+                },
+                {
+                    "title": "Engineering Manager, Workflow Delivery",
+                    "url": "https://asana.com/jobs/apply/6865382"
+                },
+                {
+                    "title": "Junior Software Engineer",
+                    "url": "https://asana.com/jobs/apply/6440856"
+                },
+                {
+                    "title": "Senior Engineering Manager, Product",
+                    "url": "https://asana.com/jobs/apply/6139492"
+                },
+                {
+                    "title": "Senior Software Engineer, Account Management",
+                    "url": "https://asana.com/jobs/apply/6809572"
+                },
+                {
+                    "title": "Senior Software Engineer, Admin Area",
+                    "url": "https://asana.com/jobs/apply/5966756"
+                },
+                {
+                    "title": "Senior Software Engineer, Product",
+                    "url": "https://asana.com/jobs/apply/6751576"
+                },
+                {
+                    "title": "Senior Software Engineer, Product",
+                    "url": "https://asana.com/jobs/apply/6791159"
+                },
+                {
+                    "title": "Software Engineer",
+                    "url": "https://asana.com/jobs/apply/5844714"
+                },
+                {
+                    "title": "Software Engineer, Android",
+                    "url": "https://asana.com/jobs/apply/6200340"
+                },
+                {
+                    "title": "Software Engineer, Backend",
+                    "url": "https://asana.com/jobs/apply/6169243"
+                },
+                {
+                    "title": "Software Engineer - iOS",
+                    "url": "https://asana.com/jobs/apply/6200318"
+                },
+                {
+                    "title": "Software Engineer, Product",
+                    "url": "https://asana.com/jobs/apply/6751685"
+                },
+                {
+                    "title": "Software Engineer, Product",
+                    "url": "https://asana.com/jobs/apply/6937795"
+                },
+                {
+                    "title": "Staff Software Engineer",
+                    "url": "https://asana.com/jobs/apply/6202409"
+                },
+                {
+                    "title": "Staff Software Engineer, Admin Area",
+                    "url": "https://asana.com/jobs/apply/6352319"
+                },
+                {
+                    "title": "Administrative Business Partner",
+                    "url": "https://asana.com/jobs/apply/6805236"
+                },
+                {
+                    "title": "Engineering Enablement Program Manager",
+                    "url": "https://asana.com/jobs/apply/6806569"
+                },
+                {
+                    "title": "Accounts Payable Manager",
+                    "url": "https://asana.com/jobs/apply/6962443"
+                },
+                {
+                    "title": "Revenue Analyst",
+                    "url": "https://asana.com/jobs/apply/6806581"
+                },
+                {
+                    "title": "Contracts Manager",
+                    "url": "https://asana.com/jobs/apply/6962316"
+                },
+                {
+                    "title": "Public Policy Lead",
+                    "url": "https://asana.com/jobs/apply/6806220"
+                },
+                {
+                    "title": "Compensation Program Manager",
+                    "url": "https://asana.com/jobs/apply/6948724"
+                },
+                {
+                    "title": "Employee Relations Business Partner",
+                    "url": "https://asana.com/jobs/apply/6806238"
+                },
+                {
+                    "title": "Employee Relations Business Partner",
+                    "url": "https://asana.com/jobs/apply/6984433"
+                },
+                {
+                    "title": "Head of Compensation",
+                    "url": "https://asana.com/jobs/apply/6742660"
+                },
+                {
+                    "title": "Head of International People Partners",
+                    "url": "https://asana.com/jobs/apply/6921406"
+                },
+                {
+                    "title": "Head of People Systems",
+                    "url": "https://asana.com/jobs/apply/6806547"
+                },
+                {
+                    "title": "Senior Talent Acquisition Partner - R&D",
+                    "url": "https://asana.com/jobs/apply/6806571"
+                },
+                {
+                    "title": "Talent Acquisition Partner, APAC",
+                    "url": "https://asana.com/jobs/apply/6816000"
+                },
+                {
+                    "title": "Workplace Lead",
+                    "url": "https://asana.com/jobs/apply/6976256"
+                },
+                {
+                    "title": "Product Design Director",
+                    "url": "https://asana.com/jobs/apply/6806528"
+                },
+                {
+                    "title": "Senior Product Designer, Onboarding & User Adoption",
+                    "url": "https://asana.com/jobs/apply/6850337"
+                },
+                {
+                    "title": "Director of Product Management, Enterprise Administration",
+                    "url": "https://asana.com/jobs/apply/6804868"
+                },
+                {
+                    "title": "Product Manager",
+                    "url": "https://asana.com/jobs/apply/6288528"
+                },
+                {
+                    "title": "Product Manager",
+                    "url": "https://asana.com/jobs/apply/6991808"
+                },
+                {
+                    "title": "Product Manager, RepConn",
+                    "url": "https://asana.com/jobs/apply/6372245"
+                }
+            ],
+            "error": null
         }
     },
     {
@@ -263,18 +731,18 @@
         }
     },
     {
-        "company_name": "Amplitude",
-        "career_page_url": "https://job-boards.greenhouse.io/amplitude",
-        "scraped_data": {
-            "url": "https://job-boards.greenhouse.io/amplitude",
-            "listings": []
-        }
-    },
-    {
         "company_name": "Marriott",
         "career_page_url": "https://careers.marriott.com/career-journeys/corporate/jobs?filter%5Bcountry%5D%5B0%5D=Canada&filter%5Bcountry%5D%5B1%5D=United%20States&filter%5Bcountry%5D%5B2%5D=United%20Kingdom&filter%5Bemployment_type%5D%5B0%5D=Full%20Time&filter%5Bemployment_type%5D%5B1%5D=Part%20Time",
         "scraped_data": {
             "url": "https://careers.marriott.com/career-journeys/corporate/jobs?filter%5Bcountry%5D%5B0%5D=Canada&filter%5Bcountry%5D%5B1%5D=United%20States&filter%5Bcountry%5D%5B2%5D=United%20Kingdom&filter%5Bemployment_type%5D%5B0%5D=Full%20Time&filter%5Bemployment_type%5D%5B1%5D=Part%20Time",
+            "listings": []
+        }
+    },
+    {
+        "company_name": "Apple Contingent",
+        "career_page_url": "https://applecontingentworkforce.willhire.co/jobs/?industry=MARCOM,ALL&sort=recent&keyword=&location=&locationId=&country=US&assignmentType=&page=2&size=100",
+        "scraped_data": {
+            "url": "https://applecontingentworkforce.willhire.co/jobs/?industry=MARCOM,ALL&sort=recent&keyword=&location=&locationId=&country=US&assignmentType=&page=2&size=100",
             "listings": []
         }
     }

@@ -17,21 +17,23 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 # --- DEFINE THESE GLOBALLY (AT THE TOP LEVEL OF YOUR FILE) ---
 job_keywords = [
-        "product design", "ux design", "user experience", "design leader", "senior manager ux", "senior manager product design", "design manager",
-        "director of product", "director of design", "head of product design", "head of ux", "staff product designer", "senior director of UX"
-        "vp product design", "ux research", "product strategy", "design strategy", "principal product manager", "senior director product design",
+        "product design", "ux design", "user experience", "design leader", "senior manager ux", "senior manager product design", "senior manager", "design manager",
+        "director of design", "head of product design", "head of ux", "staff product designer", "senior director of UX", "UX Design Manager", "UX Design Lead",
+        "vp product design", "vice president product design", "ux research", "product strategy", "design strategy", "principal product manager", "senior director product design",
         "roadmapping", "0-1", "user research", "ux research", "principal", "inclusive design",
         "design systems", "design operations", "design ops", "design system", "product design system",
 ]
 
-excluded_keywords = ["cookie", "privacy", "help", "careers", "about", "blog",
-                     "login", "sign", "policy", "terms", "faq", "jobsjobs",
-                     "person_outline", "work_outline", "search", "results",
-                     "dashboard", "preferences", "categories", "alerts",
-                     "eec", "eeo", "how we hire", "know your rights", "equal opportunity",
-                     "contact", "junior", "associate", "intern", "entry-level", "graphic design",
-                    "visual design", "marketing design", "developer", "engineer", "frontend",
-                    "backend", "sales"]
+excluded_keywords = [
+                    "cookie", "privacy", "help", "careers", "about", "blog", 
+                    "login", "sign", "policy", "terms", "faq", "jobsjobs",
+                    "person_outline", "work_outline", "search", "results",
+                    "dashboard", "preferences", "categories", "alerts",
+                    "eec", "eeo", "how we hire", "know your rights", "equal opportunity",
+                    "contact", "junior", "associate", "intern", "entry-level", "graphic design",
+                    "visual design", "marketing design", "developer", "engineer", "frontend", "sourc",  
+                    "backend", "sales"
+                    ]
 # --- END GLOBAL DEFINITIONS ---
 
 
@@ -60,9 +62,11 @@ css_selectors_playwright = [
     'a[data-ph-at-id="job-list-item-title"]',
     'a[data-automation-id="jobTitle"]',
     'li.job-result-card a',
+    'li a',
     'div.job-listing__item a',
     'h3 a',
     'h2 a',
+    'h5.open-positions__listing-title',
     '.job-card a',
     '.job-item a',
     '.opening-title', # For titles that might not be links
@@ -82,7 +86,7 @@ global_found_listings_ids = set()
 companies_requiring_playwright = [
     "Google", "Microsoft", "Netflix", "Airbnb", "IBM", "ServiceNow",
     "Adobe", "Apple", "Amazon", "Dropbox", "Webflow", "Canva", "GoodRx",
-    "Walmart" 
+    "Walmart", "Hubspot", "Asana" 
 ]
 
 def scrape_company_jobs(company_url, company_name):
@@ -274,22 +278,22 @@ async def scrape_company_jobs_with_playwright(company_url, company_name):
                         next_button = await page.query_selector(google_next_button_selector)
 
                         if next_button and await next_button.is_enabled():
-                            logging.info(f"    Playwright: Clicking 'Next Page' button for Google page {page_count}...")
+                            logging.info("Playwright: Clicking 'Next Page' button for Google page {page_count}...")
                             await next_button.click()
                             await page.wait_for_load_state('domcontentloaded', timeout=15000)
                             await page.wait_for_timeout(500)
                         else:
-                            logging.info("    Playwright: 'Next Page' button not found or not enabled. End of Google results.")
+                            logging.info("Playwright: 'Next Page' button not found or not enabled. End of Google results.")
                             break
                     except Exception as e:
-                        logging.info(f"    Playwright: Error finding/clicking 'Next Page' button for Google: {e}. Assuming end of results.")
+                        logging.info("Playwright: Error finding/clicking 'Next Page' button for Google: {e}. Assuming end of results.")
                         break
 
-                logging.info(f"  Found {len(listings)} total potential listings for {company_name} (Playwright)")
+                logging.info("Found {len(listings)} total potential listings for {company_name} (Playwright)")
                 return {"url": company_url, "listings": listings, "error": None}
 
             elif company_name == "ServiceNow":
-                logging.info(f"    Playwright: Starting ServiceNow-specific scraping for {company_url}")
+                logging.info("Playwright: Starting ServiceNow-specific scraping for {company_url}")
                 service_now_main_container_selector = 'div#js-job-search-results'
                 # --- UPDATED SELECTOR HERE ---
                 service_now_job_item_selector = 'div.card.card-job' # Corrected selector based on your feedback
@@ -299,12 +303,12 @@ async def scrape_company_jobs_with_playwright(company_url, company_name):
                 # ServiceNow: Initial navigation and wait for main job container
                 await page.goto(company_url, wait_until='domcontentloaded', timeout=30000)
                 try:
-                    logging.info(f"    Playwright: Waiting for ServiceNow main container '{service_now_main_container_selector}' (timeout: 45.0s)...")
+                    logging.info("Playwright: Waiting for ServiceNow main container '{service_now_main_container_selector}' (timeout: 45.0s)...")
                     await page.wait_for_selector(service_now_main_container_selector, timeout=45000) # Increased timeout
                     await page.wait_for_load_state('networkidle', timeout=45000) # Keep for now, but note it might time out
-                    logging.info(f"      Playwright: ServiceNow main container '{service_now_main_container_selector}' found, network idle state reached.")
+                    logging.info("Playwright: ServiceNow main container '{service_now_main_container_selector}' found, network idle state reached.")
                 except Exception as e:
-                    logging.warning(f"      Playwright: Timeout waiting for ServiceNow job elements or network idle: {e}. Attempting to proceed without full load confirmation.")
+                    logging.warning("Playwright: Timeout waiting for ServiceNow job elements or network idle: {e}. Attempting to proceed without full load confirmation.")
 
                 content = await page.content()
                 soup = BeautifulSoup(content, 'html.parser')
@@ -312,9 +316,9 @@ async def scrape_company_jobs_with_playwright(company_url, company_name):
                 # Extract jobs from the ServiceNow page
                 job_items = soup.select(service_now_job_item_selector) # Select all individual job containers
                 if not job_items:
-                    logging.warning(f"    Playwright: No job items found using selector '{service_now_job_item_selector}' for ServiceNow. Please double-check this selector and the inner title/link selectors!") # Added a more emphatic warning
+                    logging.warning("Playwright: No job items found using selector '{service_now_job_item_selector}' for ServiceNow. Please double-check this selector and the inner title/link selectors!") # Added a more emphatic warning
                 else:
-                    logging.info(f"    Playwright: Found {len(job_items)} job item containers using selector '{service_now_job_item_selector}'.")
+                    logging.info("Playwright: Found {len(job_items)} job item containers using selector '{service_now_job_item_selector}'.")
 
 
                 for item in job_items:
@@ -326,7 +330,7 @@ async def scrape_company_jobs_with_playwright(company_url, company_name):
 
                     if not title or not link:
                         # Log if a title or link is missing within a found job item
-                        logging.debug(f"      Playwright: Skipping job item due to missing title or link. Item HTML (title selector '{service_now_title_selector}', link selector '{service_now_link_selector}'): {item.prettify()}")
+                        logging.debug("Playwright: Skipping job item due to missing title or link. Item HTML (title selector '{service_now_title_selector}', link selector '{service_now_link_selector}'): {item.prettify()}")
                         continue
 
                     if not link.startswith('http'):
@@ -356,21 +360,72 @@ async def scrape_company_jobs_with_playwright(company_url, company_name):
                     if link:
                         current_processed_urls.add(link)
 
-                logging.info(f"  Found {len(listings)} total potential listings for {company_name} (Playwright)")
+                logging.info("Found {len(listings)} total potential listings for {company_name} (Playwright)")
+                return {"url": company_url, "listings": listings, "error": None}
+            
+            elif company_name == "Hubspot":
+                logging.info(f"    Playwright: Starting Hubspot-specific scraping for {company_url}")
+                await page.goto(company_url, wait_until='domcontentloaded', timeout=60000)
+                await page.wait_for_timeout(3000)  # Wait for JS to load jobs
+                try:
+                    await page.wait_for_selector('a.careers-apply', timeout=20000)
+                except Exception as e:
+                    logging.error(f"Hubspot: No job links found: {e}")
+                    content = await page.content()
+                    logging.debug(content[:2000])
+                    return {"url": company_url, "listings": [], "error": f"No job links found: {e}"}
+                content = await page.content()
+                soup = BeautifulSoup(content, 'html.parser')
+                listings = []
+                for a in soup.select('a.careers-apply'):
+                    li = a.find_parent('li')
+                    title_elem = li.find('h3') if li else None
+                    title = title_elem.get_text(strip=True) if title_elem else None
+                    href = a.get('href')
+                    if href and not href.startswith('http'):
+                        href = urljoin("https://www.hubspot.com", href)
+                    if title and href:
+                        listings.append({"title": title, "url": href})
+                logging.info(f"  Found {len(listings)} potential listings for Hubspot (Playwright)")
+                return {"url": company_url, "listings": listings, "error": None}
+            
+            elif company_name == "Asana":
+                logging.info(f"    Playwright: Starting Asana-specific scraping for {company_url}")
+                await page.goto(company_url, wait_until='domcontentloaded', timeout=60000)
+                await page.wait_for_timeout(3000)  # Wait for JS to load jobs
+                try:
+                    await page.wait_for_selector('a.jobs-listing', timeout=20000)
+                except Exception as e:
+                    logging.error(f"Asana: No job links found: {e}")
+                    content = await page.content()
+                    logging.debug(content[:2000])
+                    return {"url": company_url, "listings": [], "error": f"No job links found: {e}"}
+                content = await page.content()
+                soup = BeautifulSoup(content, 'html.parser')
+                listings = []
+                for a in soup.select('a.jobs-listing'):
+                    title_elem = a.select_one('.jobs-listing-title strong')
+                    title = title_elem.get_text(strip=True) if title_elem else a.get_text(strip=True)
+                    href = a.get('href')
+                    if href and not href.startswith('http'):
+                        href = urljoin("https://asana.com", href)
+                    if title and href:
+                        listings.append({"title": title, "url": href})
+                logging.info(f"  Found {len(listings)} potential listings for Asana (Playwright)")
                 return {"url": company_url, "listings": listings, "error": None}
 
             else: # Generic Playwright CSS selectors processing for all other companies
-                logging.info(f"    Playwright: Starting generic scraping for {company_url}")
+                logging.info("Playwright: Starting generic scraping for {company_url}")
                 # For generic companies, we fall back to a simple goto and wait for body (or rely on networkidle)
                 await page.goto(company_url, wait_until='domcontentloaded', timeout=60000)
                 try:
                     # Generic wait for body and network idle
-                    logging.info(f"    Playwright: Waiting for generic page load (body, timeout: 20.0s)...")
+                    logging.info("Playwright: Waiting for generic page load (body, timeout: 20.0s)...")
                     await page.wait_for_selector('body', timeout=20000)
                     await page.wait_for_load_state('networkidle', timeout=30000)
-                    logging.info(f"      Playwright: Generic page loaded, network idle state reached.")
+                    logging.info("Playwright: Generic page loaded, network idle state reached.")
                 except Exception as e:
-                    logging.warning(f"      Playwright: Timeout waiting for generic page load for {company_name}: {e}. Proceeding.")
+                    logging.warning("Playwright: Timeout waiting for generic page load for {company_name}: {e}. Proceeding.")
 
                 content = await page.content()
                 soup = BeautifulSoup(content, 'html.parser')
